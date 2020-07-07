@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1592922212 source:c:\users\usuario\desktop\platzi\introduccion a c++\helloworld\main.cpp
+	<iostream>
+
+1592922163 source:c:\users\usuario\desktop\platzi\introduccion a c++\helloworld\datatype.cpp
+	<iostream>
+

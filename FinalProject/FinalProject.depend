@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1594136587 source:c:\users\usuario\desktop\platzi\introduccion a c++\finalproject\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1593793054 c:\users\usuario\desktop\platzi\introduccion a c++\finalproject\include\player.h
+
+1594138091 source:c:\users\usuario\desktop\platzi\introduccion a c++\finalproject\main.cpp
+	<iostream>
+	"Player.h"
+	"mapCell.h"
+	"gameMap.h"
+	"Enemy.h"
+
+1594136779 c:\users\usuario\desktop\platzi\introduccion a c++\finalproject\include\mapcell.h
+
+1593721857 source:c:\users\usuario\desktop\platzi\introduccion a c++\finalproject\src\mapcell.cpp
+	"mapCell.h"
+
+1594136904 c:\users\usuario\desktop\platzi\introduccion a c++\finalproject\include\gamemap.h
+	"mapCell.h"
+
+1594136587 source:c:\users\usuario\desktop\platzi\introduccion a c++\finalproject\src\gamemap.cpp
+	"gameMap.h"
+	"Player.h"
+	<iostream>
+	<fstream>
+
+1594136848 source:c:\users\usuario\desktop\platzi\introduccion a c++\finalproject\src\enemy.cpp
+	"Enemy.h"
+	<iostream>
+
+1594136587 c:\users\usuario\desktop\platzi\introduccion a c++\finalproject\include\enemy.h
+

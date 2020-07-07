@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1552026751 source:/Users/Joe/Desktop/MisProyectos/Laberinto/main.cpp
+	<iostream>
+	"GameMap.h"
+	"Player.h"
+
+1551971511 /Users/Joe/Desktop/MisProyectos/Laberinto/include/MapCell.h
+	<iostream>
+
+1551971500 source:/Users/Joe/Desktop/MisProyectos/Laberinto/src/MapCell.cpp
+	"MapCell.h"
+
+1552026648 source:/Users/Joe/Desktop/MisProyectos/Laberinto/src/GameMap.cpp
+	"GameMap.h"
+	<fstream>
+
+1552026711 /Users/Joe/Desktop/MisProyectos/Laberinto/include/GameMap.h
+	"MapCell.h"
+
+1552025883 /Users/Joe/Desktop/MisProyectos/Laberinto/include/Player.h
+	<iostream>
+
+1552026022 source:/Users/Joe/Desktop/MisProyectos/Laberinto/src/Player.cpp
+	"Player.h"
+
+1554177112 source:c:\users\usuario\desktop\platzi\introduccion a c++\platzicplusplus\laberinto\main.cpp
+	<iostream>
+	"GameMap.h"
+	"Player.h"
+
+1554177112 c:\users\usuario\desktop\platzi\introduccion a c++\platzicplusplus\laberinto\include\gamemap.h
+	"MapCell.h"
+
+1554177112 c:\users\usuario\desktop\platzi\introduccion a c++\platzicplusplus\laberinto\include\mapcell.h
+	<iostream>
+
+1554177112 c:\users\usuario\desktop\platzi\introduccion a c++\platzicplusplus\laberinto\include\player.h
+	<iostream>
+
+1554177112 source:c:\users\usuario\desktop\platzi\introduccion a c++\platzicplusplus\laberinto\src\gamemap.cpp
+	"GameMap.h"
+	<fstream>
+
+1554177112 source:c:\users\usuario\desktop\platzi\introduccion a c++\platzicplusplus\laberinto\src\mapcell.cpp
+	"MapCell.h"
+
+1554177112 source:c:\users\usuario\desktop\platzi\introduccion a c++\platzicplusplus\laberinto\src\player.cpp
+	"Player.h"
+
